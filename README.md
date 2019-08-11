@@ -151,3 +151,11 @@ prepare for campus interview  2019
 | [395](https://github.com/grandyang/leetcode/issues/395) | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/longest-substring-with-at-least-k-repeating-characters.py)
 | [412](https://github.com/grandyang/leetcode/issues/412) | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) |[Easy](https://github.com/greathope/LeetCode/blob/master/Python/fizz-buzz.py)
 | [454](https://github.com/grandyang/leetcode/issues/454) | [4Sum II](https://leetcode.com/problems/4sum-ii) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/4sum-ii.py)
+
+
+### nowcoder 面经
+
+| ID|题目| 难度| 公司
+|---|---|---|---
+| [151](https://github.com/grandyang/leetcode/issues/151) | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |Medium|[头条](https://www.nowcoder.com/discuss/220966?type=2&order=0&pos=14&page=1)
+
