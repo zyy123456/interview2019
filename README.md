@@ -159,4 +159,4 @@ prepare for campus interview  2019
 |---|---|---|---
 | [151](https://github.com/grandyang/leetcode/issues/151) | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |Medium|[头条](https://www.nowcoder.com/discuss/220966?type=2&order=0&pos=14&page=1)
 | [72](https://github.com/grandyang/leetcode/issues/72) | [Edit Distance](https://leetcode.com/problems/edit-distance/) |hard|[头条](https://www.nowcoder.com/discuss/220966?type=2&order=0&pos=14&page=1)
-| [542](https://github.com/grandyang/leetcode/issues/542) | [01 Matrix](https://leetcode.com/problems/01-matrix/) |第四范式
+| [542](https://github.com/grandyang/leetcode/issues/542) | [01 Matrix](https://leetcode.com/problems/01-matrix/) |medium|第四范式
