@@ -162,3 +162,6 @@ prepare for campus interview  2019
 | [542](https://github.com/grandyang/leetcode/issues/542) | [01 Matrix](https://leetcode.com/problems/01-matrix/) |[medium](./code/542_01_matrix.py)|第四范式
 | [31](https://github.com/grandyang/leetcode/issues/31) | [Next Permutation](https://leetcode.com/problems/next-permutation/) |medium|作业帮
 | [95](https://github.com/grandyang/leetcode/issues/95) | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) |medium|作业帮
+| [225](https://github.com/grandyang/leetcode/issues/225) | [Implement Stack using Queues](
+https://leetcode.com/problems/implement-stack-using-queues/) |easy|作业帮
+
