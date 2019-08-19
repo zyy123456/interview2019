@@ -49,7 +49,7 @@ prepare for campus interview  2019
 | [73](https://github.com/grandyang/leetcode/issues/73) | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/set-matrix-zeroes.py)
 | [75](https://github.com/grandyang/leetcode/issues/75) | [Sort Colors](https://leetcode.com/problems/sort-colors) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/sort-colors.py)
 | [76](https://github.com/grandyang/leetcode/issues/76) | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |[Hard](https://github.com/greathope/LeetCode/blob/master/Python/minimum-window-substring.py)|作业帮
-| [78](https://github.com/grandyang/leetcode/issues/78) | [Subsets](https://leetcode.com/problems/subsets) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/subsets.py)
+| [78](https://github.com/grandyang/leetcode/issues/78) | [Subsets](https://leetcode.com/problems/subsets) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/subsets.py)|作业帮
 | [79](https://github.com/grandyang/leetcode/issues/79) | [Word Search](https://leetcode.com/problems/word-search) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/word-search.py)
 | [84](https://github.com/grandyang/leetcode/issues/84) | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) |[Hard](https://github.com/greathope/LeetCode/blob/master/Python/largest-rectangle-in-histogram.py)
 | [88](https://github.com/grandyang/leetcode/issues/88) | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) |[Easy](https://github.com/greathope/LeetCode/blob/master/Python/merge-sorted-array.py)
