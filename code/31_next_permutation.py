@@ -18,4 +18,16 @@ class Solution:
                 self.reverse(nums, i + 1, n - 1)
                 return
         self.reverse(nums, 0, n-1)
+        
+    def nextPermutation2(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        i, j = len(nums) - 2, len(nums) - 1
+        while i >= 0 and nums[i] >= nums[i+1]: i -= 1
+        if i >=0:
+            while nums[j] <= nums[i]:
+                j -= 1
+            nums[i], nums[j] = nums[j], nums[i]
+        self.reverse(nums, i+1, len(nums)-1)
                 
