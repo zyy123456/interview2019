@@ -4,8 +4,8 @@ prepare for campus interview  2019
 ## leetcode
 ### Top interview questions
 
-| ID|题目| 难度
-|---|---|---
+| ID|题目| 难度| 公司
+|---|---|---|--|
 | [1](https://github.com/grandyang/leetcode/issues/1) | [Two Sum](https://leetcode.com/problems/two-sum) |[Easy](https://github.com/greathope/LeetCode/blob/master/Python/two-sum.py)
 | [2](https://github.com/grandyang/leetcode/issues/2) | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/add-two-numbers.py)
 | [3](https://github.com/grandyang/leetcode/issues/3) | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/longest-substring-without-repeating-characters.py)
@@ -35,7 +35,7 @@ prepare for campus interview  2019
 | [42](https://github.com/grandyang/leetcode/issues/42) | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |[Hard](https://github.com/greathope/LeetCode/blob/master/Python/trapping-rain-water.py)
 | [44](https://github.com/grandyang/leetcode/issues/44) | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |[Hard](https://github.com/greathope/LeetCode/blob/master/Python/wildcard-matching.py)
 | [46](https://github.com/grandyang/leetcode/issues/46) | [Permutations](https://leetcode.com/problems/permutations) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/permutations.py)
-| [48](https://github.com/grandyang/leetcode/issues/48) | [Rotate Image](https://leetcode.com/problems/rotate-image) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/rotate-image.py)
+| [48](https://github.com/grandyang/leetcode/issues/48) | [Rotate Image](https://leetcode.com/problems/rotate-image) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/rotate-image.py)| 作业帮
 | [49](https://github.com/grandyang/leetcode/issues/49) | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/group-anagrams.py)
 | [50](https://github.com/grandyang/leetcode/issues/50) | [Pow(x, n)](https://leetcode.com/problems/pow(x,-n)) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/powx,-n.py)
 | [53](https://github.com/grandyang/leetcode/issues/53) | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |[Easy](https://github.com/greathope/LeetCode/blob/master/Python/maximum-subarray.py)
