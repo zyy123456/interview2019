@@ -42,7 +42,7 @@ prepare for campus interview  2019
 | [54](https://github.com/grandyang/leetcode/issues/54) | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/spiral-matrix.py)|作业帮
 | [55](https://github.com/grandyang/leetcode/issues/55) | [Jump Game](https://leetcode.com/problems/jump-game) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/jump-game.py)
 | [56](https://github.com/grandyang/leetcode/issues/56) | [Merge Intervals](https://leetcode.com/problems/merge-intervals) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/merge-intervals.py)
-| [62](https://github.com/grandyang/leetcode/issues/62) | [Unique Paths](https://leetcode.com/problems/unique-paths) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/unique-paths.py)
+| [62](https://github.com/grandyang/leetcode/issues/62) | [Unique Paths](https://leetcode.com/problems/unique-paths) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/unique-paths.py)|第四范式, 海康
 | [66](https://github.com/grandyang/leetcode/issues/66) | [Plus One](https://leetcode.com/problems/plus-one) |[Easy](https://github.com/greathope/LeetCode/blob/master/Python/plus-one.py)
 | [69](https://github.com/grandyang/leetcode/issues/69) | [Sqrt(x)](https://leetcode.com/problems/sqrtx) |[Easy](https://github.com/greathope/LeetCode/blob/master/Python/sqrtx.py)
 | [70](https://github.com/grandyang/leetcode/issues/70) | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |[Easy](https://github.com/greathope/LeetCode/blob/master/Python/climbing-stairs.py)
@@ -104,7 +104,7 @@ prepare for campus interview  2019
 | [208](https://github.com/grandyang/leetcode/issues/208) | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-(prefix-tree)) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/implement-trie-prefix-tree.py)
 | [210](https://github.com/grandyang/leetcode/issues/210) | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/course-schedule-ii.py)
 | [212](https://github.com/grandyang/leetcode/issues/212) | [Word Search II](https://leetcode.com/problems/word-search-ii) |[Hard](https://github.com/greathope/LeetCode/blob/master/Python/word-search-ii.py)
-| [215](https://github.com/grandyang/leetcode/issues/215) | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |[Medium](./code/215_kth_largest_element_in_an_array.py)|作业帮
+| [215](https://github.com/grandyang/leetcode/issues/215) | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |[Medium](./code/215_kth_largest_element_in_an_array.py)|作业帮,海康
 | [217](https://github.com/grandyang/leetcode/issues/217) | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) |[Easy](https://github.com/greathope/LeetCode/blob/master/Python/contains-duplicate.py)
 | [218](https://github.com/grandyang/leetcode/issues/218) | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |[Hard](https://github.com/greathope/LeetCode/blob/master/Python/the-skyline-problem.py)
 | [227](https://github.com/grandyang/leetcode/issues/227) | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) |[Medium](https://github.com/greathope/LeetCode/blob/master/Python/basic-calculator-ii.py)
