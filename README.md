@@ -170,3 +170,5 @@ prepare for campus interview  2019
 | [35](https://github.com/grandyang/leetcode/issues/35) | [Search Insert Position	](https://leetcode.com/problems/search-insert-position/) |medium|作业帮
 | [43](https://github.com/grandyang/leetcode/issues/43) | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |medium|作业帮
 | [52](https://github.com/grandyang/leetcode/issues/52) | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) |hard|依图
+| [224](https://github.com/grandyang/leetcode/issues/224) | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) |hard|依图
+| [227](https://github.com/grandyang/leetcode/issues/227) | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) |medium|依图
